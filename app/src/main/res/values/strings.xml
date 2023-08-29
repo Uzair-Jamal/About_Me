@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Uzair Jamal</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio_text">
+        Subject: Inquiry Regarding Admission Details, Uniform, and Attendance Policy - Board of Intermediate Karachi
+        \n\nDear [Principal\'s Name],
+        I hope this email finds you in good health. My name is [Your Name],
+        and I am reaching out to inquire about the admission process, uniform guidelines, and attendance policy for the [Program Name] at [College Name],
+        specifically as per the regulations set by the Board of Intermediate Education Karachi.
+
+   </string>
+    <string name="what_is_your_name">What is your Nickname?</string>
+    <string name="btn_done">Done</string>
+
+</resources>
